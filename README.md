@@ -1,4 +1,4 @@
-#live demo
+# Live demo
 https://vercel.com/saulomelo/expenses-control-app
 
 # Getting Started with Create React App
